@@ -2,8 +2,7 @@
 posting code for Gitblog
 
 ---
-
-## Gitblog Link
+## Blog Link
 https://solee328.github.io/
 
 
@@ -49,4 +48,13 @@ MUNIT(Multimodal Unsupervised Image-to-Image Translation)<br>
 [<a href="https://github.com/solee328/post-code/blob/main/gan/munit.ipynb" target="_blank">code</a>]
 
 GANimation(GANimation: Anatomically-aware Facial Animation from a Single Image)<br>
-[<a href="https://solee328.github.io/gan/2023/07/04/ganimation_paper.html" target="_blank">paper_post</a>][][]
+[<a href="https://solee328.github.io/gan/2023/07/04/ganimation_paper.html" target="_blank">paper_post</a>]
+
+SAGAN(Self-Attention Generative Adversarial Networks)<br>
+[<a href="https://solee328.github.io/gan/2023/09/27/sagan_paper.html" target="_blank">paper_post</a>]
+
+BigGAN<br>
+[<a href="https://solee328.github.io/gan/2023/11/03/biggan_paper.html" target="_blank">paper post</a>]
+
+FUNIT<br>
+[]
